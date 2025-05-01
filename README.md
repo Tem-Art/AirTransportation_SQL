@@ -9,4 +9,5 @@
 - 1 представление: flights_v
 - 1 материализованное представление: routes
 
-  ![postgres](https://github.com/user-attachments/assets/03d91e1d-67e3-47ef-8f51-56c5adea641a)
+  ![er-diagram](https://github.com/user-attachments/assets/b99c9cbf-007e-4d07-a5fb-49bd244e6fa5)
+
